@@ -20,5 +20,18 @@ This Android app demonstrates fetching and displaying data from the [Dummy JSON 
   ## 📸 Screenshots
   |Home Screen | Product Details Screen|
   |------------|-----------------------|
-  | ![Home] 
+  | ![Home](https://github.com/Vishalkumar800/Pagination-jetpack-compose/blob/master/app/src/main/assets/photo_2025-06-07_11-09-32.jpg) | ![Porduct Details Screen](https://github.com/Vishalkumar800/Pagination-jetpack-compose/blob/master/app/src/main/assets/photo_2025-06-07_11-09-36.jpg) |
+
+  ## ⚙️ Setup Instructions
+
+1. **Clone the Repository**:
+```
+https://github.com/Vishalkumar800/Pagination-jetpack-compose
+```
+
+## 📞 Contact
+For issues ,suggestions, or queries:
+- Github: [VishalKumar800](https://github.com/Vishalkumar800)
+- Email : vishal4744168@gmail.com
+- Linkedn :[Vishal](https://www.linkedin.com/in/vishal-vishal-514537294/)
   
