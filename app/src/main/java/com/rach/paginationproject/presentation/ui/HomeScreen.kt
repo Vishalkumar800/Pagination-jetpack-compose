@@ -1,4 +1,4 @@
-package com.rach.paginationproject.ui
+package com.rach.paginationproject.presentation.ui
 
 import androidx.compose.foundation.Image
 import androidx.compose.foundation.background
@@ -41,8 +41,8 @@ import androidx.compose.ui.unit.sp
 import androidx.paging.compose.collectAsLazyPagingItems
 import coil.compose.AsyncImagePainter
 import coil.compose.rememberAsyncImagePainter
-import com.rach.paginationproject.model.Product
-import com.rach.paginationproject.viewModels.ProductViewModel
+import com.rach.paginationproject.data.model.Product
+import com.rach.paginationproject.presentation.viewModels.ProductViewModel
 
 @OptIn(ExperimentalMaterial3Api::class)
 @Composable

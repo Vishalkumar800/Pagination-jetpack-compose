@@ -1,4 +1,4 @@
-package com.rach.paginationproject.theme
+package com.rach.paginationproject.presentation.theme
 
 import androidx.compose.ui.graphics.Color
 

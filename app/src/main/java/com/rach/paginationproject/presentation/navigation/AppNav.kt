@@ -1,4 +1,4 @@
-package com.rach.paginationproject.navigation
+package com.rach.paginationproject.presentation.navigation
 
 import androidx.compose.foundation.layout.Arrangement
 import androidx.compose.foundation.layout.Column
@@ -13,10 +13,10 @@ import androidx.navigation.compose.NavHost
 import androidx.navigation.compose.composable
 import androidx.navigation.compose.rememberNavController
 import androidx.navigation.navArgument
-import com.rach.paginationproject.model.Product
-import com.rach.paginationproject.ui.MainScreen
-import com.rach.paginationproject.ui.ProductDetailScreen
-import com.rach.paginationproject.viewModels.ProductViewModel
+import com.rach.paginationproject.data.model.Product
+import com.rach.paginationproject.presentation.ui.MainScreen
+import com.rach.paginationproject.presentation.ui.ProductDetailScreen
+import com.rach.paginationproject.presentation.viewModels.ProductViewModel
 import kotlinx.serialization.json.Json
 import java.net.URLDecoder
 import java.net.URLEncoder

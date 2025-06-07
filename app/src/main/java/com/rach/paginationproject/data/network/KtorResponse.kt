@@ -1,4 +1,4 @@
-package com.rach.paginationproject
+package com.rach.paginationproject.data.network
 
 import io.ktor.client.HttpClient
 import io.ktor.client.engine.okhttp.OkHttp

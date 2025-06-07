@@ -1,4 +1,4 @@
-package com.rach.paginationproject.ui
+package com.rach.paginationproject.presentation.ui
 
 import androidx.compose.foundation.layout.Spacer
 import androidx.compose.foundation.layout.fillMaxWidth
@@ -21,7 +21,7 @@ import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
-import com.rach.paginationproject.theme.PaginationProjectTheme
+import com.rach.paginationproject.presentation.theme.PaginationProjectTheme
 
 @OptIn(ExperimentalMaterial3Api::class)
 @Composable

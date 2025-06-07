@@ -1,10 +1,11 @@
-package com.rach.paginationproject.pagination
+package com.rach.paginationproject.data.paging
 
 import androidx.paging.PagingSource
 import androidx.paging.PagingState
-import com.rach.paginationproject.model.Product
+import com.rach.paginationproject.data.model.Product
+import com.rach.paginationproject.data.network.fetchAllProducts
 
-class PagingSource:PagingSource<Int,Product>() {
+class PagingSource:PagingSource<Int, Product>() {
     override fun getRefreshKey(state: PagingState<Int, Product>): Int? {
         return null
     }

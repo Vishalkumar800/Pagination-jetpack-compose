@@ -1,4 +1,4 @@
-package com.rach.paginationproject.ui
+package com.rach.paginationproject.presentation.ui
 
 import android.util.Log
 import androidx.compose.foundation.ExperimentalFoundationApi
@@ -34,8 +34,8 @@ import androidx.compose.ui.unit.sp
 import coil.compose.AsyncImagePainter
 import coil.compose.rememberAsyncImagePainter
 import com.rach.paginationproject.AppPreview
-import com.rach.paginationproject.model.Product
-import com.rach.paginationproject.theme.PaginationProjectTheme
+import com.rach.paginationproject.data.model.Product
+import com.rach.paginationproject.presentation.theme.PaginationProjectTheme
 import kotlinx.coroutines.delay
 
 @OptIn(ExperimentalFoundationApi::class)

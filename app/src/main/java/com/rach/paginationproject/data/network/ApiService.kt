@@ -1,8 +1,7 @@
-package com.rach.paginationproject.pagination
+package com.rach.paginationproject.data.network
 
-import com.rach.paginationproject.KtorClientInstance
-import com.rach.paginationproject.model.Product
-import com.rach.paginationproject.model.ProductResponse
+import com.rach.paginationproject.data.model.Product
+import com.rach.paginationproject.data.model.ProductResponse
 import io.ktor.client.call.body
 import io.ktor.client.request.get
 

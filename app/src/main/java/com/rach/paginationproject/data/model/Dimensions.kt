@@ -1,4 +1,4 @@
-package com.rach.paginationproject.model
+package com.rach.paginationproject.data.model
 
 
 import kotlinx.serialization.SerialName
